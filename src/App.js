@@ -1,15 +1,16 @@
 import React from "react";
 import Layout from "./components/Layout/Layout";
+import BurgerBuilder from "./containers/BurgerBuilder/BurgerBuilder";
 function App() {
   return (
     <div >
-   <Layout>
-     <p>Test</p>
-   </Layout>
+      <Layout>
+        <BurgerBuilder />
+      </Layout>
     </div>
   );
 }
 
 export default App;
 
-// 9 9
+// 8 10
