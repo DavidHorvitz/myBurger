@@ -4,9 +4,7 @@ const buildControl = (props) =>(
 <div className="BuildControl">
     <div className="Label">{props.label}</div>
     <button className="Lass">Lass</button>
-    <button className="More">More</button>
+    <button className="More" onClick={props.added}>More</button>
 </div>
 );
 export default buildControl;
-let test = 0;
-// abcdefg test
