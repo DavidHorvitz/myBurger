@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "./components/Layout/Layout";
+import Layout from "./containers/BurgerBuilder/Layout/Layout";
 import BurgerBuilder from "./containers/BurgerBuilder/BurgerBuilder";
 function App() {
   return (
@@ -14,4 +14,4 @@ function App() {
 export default App;
 
 // 8 31 problem
-//8 40
+//10 6
