@@ -14,4 +14,4 @@ function App() {
 export default App;
 
 // 8 31 problem
-//10 6
+//12 1
